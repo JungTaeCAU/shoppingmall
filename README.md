@@ -45,6 +45,7 @@ Order Item Service
 open MySQL WorkBench Tool and login localhost 3306
 
 create database shop default character set utf8 collate utf8_general_ci;
+
 show databases;
 
 Done
