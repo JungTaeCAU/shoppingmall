@@ -10,8 +10,9 @@
 * InteliJ (Build 211.7142.45)
 * JDK11 (corretto-11.0.13)
 * SpringBoot 2.5.2
-* MySQL
+* MySQL 8.0.21
 * Maven
+* Lombok Library
 
 **Clone or download repo**
 --------------------------
@@ -37,3 +38,13 @@ Cart Service
 
 ![구매이력](https://user-images.githubusercontent.com/37211139/147311675-d0ed4491-f702-4544-89d6-ecb95135f6bd.PNG)
 Order Item Service
+
+
+**DataBase**
+---------------------
+open MySQL WorkBench Tool and login localhost 3306
+
+create database shop default character set utf8 collate utf8_general_ci;
+show databases;
+
+Done
